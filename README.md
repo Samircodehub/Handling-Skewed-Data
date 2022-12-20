@@ -1,4 +1,4 @@
-# Handling-Skewed-Data
+# Handling-Skewed-Data (To achive Normal Distribution)
 
 Data can be handled by following ways:
 
